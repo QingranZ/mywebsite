@@ -57,7 +57,7 @@ menu:
       name: About
       weight: 1
     - URL: portfolio
-      name: Portfolio
+      name: Me
       weight: 2
     - URL: contact
       name: Contact

@@ -1,0 +1,34 @@
+---
+categories:
+- R Programming
+description: This is meta description.
+draft: false
+image: images/portfolio/item-7.png
+title: ggplot
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<div id="look-at-my-r-plots" class="section level4">
+<h4>Look at My R Plots!</h4>
+<pre class="r"><code>library(tidyverse)</code></pre>
+<pre><code>## ── Attaching packages ─────────────────────────────────────── tidyverse 1.3.1 ──</code></pre>
+<pre><code>## ✓ ggplot2 3.3.5     ✓ purrr   0.3.4
+## ✓ tibble  3.1.4     ✓ dplyr   1.0.7
+## ✓ tidyr   1.1.3     ✓ stringr 1.4.0
+## ✓ readr   2.0.1     ✓ forcats 0.5.1</code></pre>
+<pre><code>## ── Conflicts ────────────────────────────────────────── tidyverse_conflicts() ──
+## x dplyr::filter() masks stats::filter()
+## x dplyr::lag()    masks stats::lag()</code></pre>
+<pre class="r"><code>set.seed(1234)
+x &lt;- sample(c(&#39;A&#39;,&#39;B&#39;,&#39;C&#39;,&#39;D&#39;), size = 1000, replace= TRUE, prob = c(0.2,0.3,0.3,0.2))
+y &lt;- rnorm(1000) * 1000 
+df = data.frame(x= x, y = y)
+ggplot(data = df, mapping = aes(x = factor(x), y = ..count..))+ geom_bar(stat = &#39;count&#39;)</code></pre>
+<p><img src="/portfolio/project-7_files/figure-html/unnamed-chunk-1-1.png" width="672" /></p>
+<pre class="r"><code>ggplot(data=iris,aes(x=Sepal.Width))+ geom_histogram(aes(fill=Species))</code></pre>
+<pre><code>## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.</code></pre>
+<p><img src="/portfolio/project-7_files/figure-html/unnamed-chunk-1-2.png" width="672" /></p>
+<p>R is one of the most useful way to visualize stats!</p>
+</div>
