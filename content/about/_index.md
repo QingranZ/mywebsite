@@ -6,8 +6,4 @@ draft: false
 title: About
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident.
-
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+Qingran Zhang is an outgoing woman from Beijing,and now study at London Business School major in financial analysis. Beyond Finance, she also studied Mathematics, Programming, and Arts at Wuhan University and Columbia University. Previous intern experiences of TMT industry research at a securities company, healthcare industry investment at a Private Equity, and capital market legal services allowed her to apply what she learned to practice and be a fast-learner. She persists in training and performing Chinese dance, modern dance, and Ballet for 16 years. In her spare time, she also loves shooting basketball with friends. 

@@ -1,31 +1,22 @@
 ---
 categories:
-- illustration
-client: John Doe
-date: "2019-05-12T12:14:34+06:00"
+- Internships
+Company: CITI
 description: This is meta description.
 draft: false
 image: images/portfolio/item-3.png
-project_url: https://themefisher.com/
-title: Artwork Design
+Company_url: https://www.citigroup.com/citi/
+title: Corporate Finance
 ---
+#### Company Description
 
-#### Project Requirements
+The Institutional Clients Group (ICG) responds to clients' changing needs through its long-established relationship coverage approach by providing client solutions that use all of Citi's relevant capabilities including the broadest possible access to financial markets globally. No other institution can match our combination of global insights, client relationship management services, geographic reach and local and cross-border product expertise.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+The ICG includes six main business lines: Banking, Capital Markets and Advisory; Commercial Banking; Markets; Securities Services; Private Banking (part of Citi Wealth Management), and Treasury and Trade Solutions (TTS). Working as one, we provide innovative solutions to meet the complex needs of corporations, financial institutions, public sector entities, investment managers and ultra-high-net-worth clients. With a physical presence in 96 countries, local trading desks in 77 markets and a custody network in 63 markets, we facilitate approximately $4 trillion in financial flows daily. We support 90% of global Fortune 500 companies in their daily operations and help them to hire, grow and succeed.
 
 
-#### Project Details
+#### Job Description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+•	Collected and reviewed 45 IPO laws and regulations, and extracted regulations affecting Citi's clients
+•	Analyzed IPO standards for 10 market tiers in the A/H-Share and US stock markets, including 15 types of requirements concerning industry preferences, financing and red-chip company restrictions
+•	Generated and refined an IPO criteria form for onshore and offshore markets containing more than 450 information points, and analyzed Citi customers' listing location selections

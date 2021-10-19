@@ -1,11 +1,11 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Hi! I’m <br> Qingran <br> LBS MFA2022"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "Qingran Zhang is an outgoing woman from Beijing,and now study at London Business School major in financial analysis. Beyond Finance, she also studied Mathematics, Programming, and Arts at Wuhan University and Columbia University."
   button:
     enable : true
     label : "know more"
@@ -14,83 +14,81 @@ about:
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "IT Skills"
   item:
-    - title : "Web Design"
-      progress : "90%"
+    - title : "R"
+      progress : "85%"
       color : "#fdb157"
       
-    - title : "Logo Design"
-      progress : "60%"
+    - title : "Wind"
+      progress : "95%"
       color : "#9473e6"
       
-    - title : "After Effects"
-      progress : "80%"
+    - title : "MATLAB"
+      progress : "65%"
       color : "#bdecf6"
       
-    - title : "Web App"
-      progress : "70%"
-      color : "#ffbcaa"
+    - title : "MS Office"
+      progress : "95%"
+      color : "#aa1546"
+      
 
 # experience
 experience:
   enable : true
-  title : "Experience"
+  title : "Business Experience"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Investment Management, Strategic Investment Intern"
+      company : "TAIKANG GROUP"
+      duration : "Oct 2020 - Feb 2021"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Institutional Clients Group, Summer Analyst"
+      company : "CITI"
+      duration : "Jul 2020 - Aug 2020"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Research Department, Electronic Sector Intern"
+      company : "CITIC SECURITIES"
+      duration : "Apr 2019 - Aug 2019"
 
 # education
 education:
   enable : true
   title : "Education"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "MSc in Financial Analysis"
+      year : "2023"
+      academy : "London Business School"
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "BSc in Finance"
+      year : "2021"
+      academy : "Wuhan University"
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
-      
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Exchange Semester"
+      year : "2020"
+      academy : "Columbia University"
+
 
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Business Area"
   item:
-    - title : "UI Design"
+    - title : "Private Equity"
       icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : " "
       highlighted : false
 
-    - title : "UX Design"
+    - title : "Equity Research"
       icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : " "
       highlighted : true
 
-    - title : "Interaction Design"
+    - title : "Corporate Finance"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : " "
       highlighted : false
 
 # portfolio
@@ -100,62 +98,17 @@ portfolio:
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
-# testimonial
-testimonial:
-  enable : true
-  title : "Testimonials"
-  item:
-    - name : "Jesica Gomez"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Shirley Scot"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-      
-    - name : "Jessica Julie"
-      image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 # client logo slider
 clients_logo_slider:
   enable : true
   item:
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
+    - logo : "images/clients-logo/LBS.png"
       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
+    - logo : "images/clients-logo/WHU.png"
       URL : "#"
       
-    - logo : "images/clients-logo/client-logo-5.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-1.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-2.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-3.png"
-      URL : "#"
-      
-    - logo : "images/clients-logo/client-logo-4.png"
-      URL : "http://examplesite.com"
-      
-    - logo : "images/clients-logo/client-logo-5.png"
+    - logo : "images/clients-logo/CU.png"
       URL : "#"
 
-# blog
-blog:
-  enable : true
-  title : "Blogs"
-  # blog post comes from "content/blog" folder

@@ -1,41 +1,16 @@
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Extracurricular Activities"
   item:
-  - title : "Research and Plan"
+  - title : "Investment Banking and Fund Association of Wuhan University"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Hosted meeting to discuss the research progress and business insights weekly"
     
-  - title : "Design and Develop"
+  - title : "TV-Relay Assistant of Wuhan Open"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Translated and instructed referees, athletes, and coaches from the preparation stage to the end"
     
-  - title : "Deliver"
+  - title : "Voluntary Support of Education in Nepal"
     icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
-# team
-team:
-  enable: true
-  title : "My Team"
-  team_member:
-    - title : "Jack Schenziwe"
-      image : "images/team/member-1.png"
-      designation : "Project Manager"
-      
-    - title : "Julias Carlie"
-      image : "images/team/member-2.png"
-      designation : "Web Developer"
-      
-    - title : "John Doe"
-      image : "images/team/member-3.png"
-      designation : "Designer"
-
-
-# client logo slider
-clients_logo_slider:
-  enable : true
-  title : "My Clients"
-  # clients logo comes from 'data/homepage.yml' file
+    content : "Lectured in Chinese culture and English to more than 200 Nepalese pupils from grade 7 to grade 11"

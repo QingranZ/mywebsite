@@ -1,31 +1,22 @@
 ---
 categories:
-- branding
-client: John Doe
-date: "2019-05-12T12:14:34+06:00"
+- Internships
+company name: CITIC Securities
 description: This is meta description.
 draft: false
 image: images/portfolio/item-2.png
-project_url: https://themefisher.com/
-title: Artwork Design
+company_url: https://www.citic.com/en/
+title: Equity Research
 ---
 
-#### Project Requirements
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
-et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt
-mollit anim id est laborum.
+#### Company Description
+
+CITIC Limited (SEHK: 00267) is one of China's largest conglomerates and a constituent of the Hang Seng Index. Tracing our roots to the beginning of China's opening and reform, CITIC has grown in step with the country's rise and modernisation. We have built a remarkable portfolio of businesses in comprehensive financial services, advanced intelligent manufacturing, advanced materials, new consumption and new-type urbanisation.
 
 
-#### Project Details
+#### Job Description
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
-nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
-anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae
-dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
-consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
+•	Established a display panel industry chain database, and performed data processing and chart generation, including data for 19 companies, 28 sizes of display panel prices and 8 types of panel clerks
+•	Designed and released monthly reports with 500 pageviews; Analyzed and forecasted based on information such as changes in market prices and shipments, upstream and downstream trends etc.
+•	Sorted out Han's Laser research notes, organized 130 major company announcements including annual reports and bond offering prospectuses since listing and 94 investor relations records
